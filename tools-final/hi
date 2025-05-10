@@ -1,0 +1,11 @@
+Requirement Analysis: Matrimonial Software
+
+Matrimonial software is an online platform designed to help individuals find suitable marriage partners based on preferences like religion, caste, education, age, and location. It offers a secure and user-friendly environment for matchmaking, focusing on profile management, search functionality, and user interaction.
+
+The system supports three main user roles: Admin, Registered Users, and Guests. Admins manage the platform, approve or block profiles, and monitor user activity. Registered users can create and manage profiles, search for matches, and communicate with others. Guests have limited access and must register to interact with profiles.
+
+The functional requirements of the system include user registration and login, profile creation, and profile management. Users can add personal details, upload photos, and set privacy settings. The search feature allows filtering based on different criteria, while a matching algorithm suggests compatible profiles.
+
+Communication features include the ability to send interest, chat internally, and receive notifications. An admin dashboard allows the administrator to monitor users, manage reports, and take action against suspicious accounts. Optionally, the platform may include a premium membership system, where users pay for enhanced features like viewing contact information or unlimited messaging.
+
+Non-functional requirements ensure the software’s quality. The platform must
